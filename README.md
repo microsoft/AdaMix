@@ -3,8 +3,42 @@
 
 This is the implementation of the paper [AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models](https://arxiv.org/abs/2205.12410). 
 
+
+## Quick links
+
+* [Overview](#overview)
+* [GLUE Benchmark](#adapting-to-the-glue-benchmark)
+  * [BERT-base](#main-results-bert-base)
+  * [RoBERTa-large](#main-results-roberta-large)
+  * [Averaging Weigths v.s. Random Routing](#comparision-between-averaging-weights-and-random-single-adapter)
+* [Checkpoints](#download-adamix-checkpoints)
+* [Run the model](#steps-to-reproduce-our-results)
+  * [Quick start](#quick-start)
+  * [Evaluate checkpoints](#evaluate-the-checkpoints)
+* [Notes and Acknowledgments](#notes-and-acknowledgments)
+* [Citation](#how-do-i-cite-adamix)
+
+
+
+## Overview
+### Training
+<img src="./figures/MixAdapter.png" width="650"/>
+
+### Inference
+<img src="./figures/training_inference.png" width="450"/>
+
 ## Adapting to the GLUE Benchmark
 Our experiments on the GLUE benchmark are run on 16 NVIDIA Tesla V100 GPU. The results may vary due to different GPU models, drivers, CUDA SDK versions, floating-point precisions, and random seeds. 
+
+### Main Results (BERT-base)
+<img src="./figures/bert_base.png" width="750"/>
+
+
+### Main Results (RoBERTa-large)
+<img src="./figures/roberta_large.png" width="750"/>
+
+### Comparision between Averaging Weights and Random Single Adapter 
+<img src="./figures/violin_plot.png" width="950"/>
 
 
 ## Download AdaMix checkpoints
