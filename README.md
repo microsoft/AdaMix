@@ -16,6 +16,7 @@ This is the implementation of the paper [AdaMix: Mixture-of-Adapter for Paramete
   * [Quick start](#quick-start)
   * [Evaluate checkpoints](#evaluate-the-checkpoints)
 * [Notes and Acknowledgments](#notes-and-acknowledgments)
+* [Contact Information](#contact-information)
 * [Citation](#how-do-i-cite-adamix)
 
 
@@ -159,12 +160,17 @@ examples/text-classification/run_glue.py \
 
 ```
 
-### Notes and Acknowledgments
+## Notes and Acknowledgments
 The implementation is based on https://github.com/huggingface/transformers  <br>
 We also used some code from: https://github.com/microsoft/LoRA 
 
+## Contact Information
+For personal communication related to this package, please contact [Yaqing Wang](https://yaqingwang.github.io/) (wang5075@purdue.edu), [Subhabrata (Subho) Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/) (submukhe@microsoft.com) or [Xiaodong Liu](https://sites.google.com/view/buptxiaodong/home) (xiaodl@microsoft.com).
 
-### How do I cite AdaMix?
+
+
+
+## How do I cite AdaMix?
 
 ```
 @article{wang2022adamix,
