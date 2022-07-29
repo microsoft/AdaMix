@@ -165,7 +165,7 @@ The implementation is based on https://github.com/huggingface/transformers  <br>
 We also used some code from: https://github.com/microsoft/LoRA 
 
 ## Contact Information
-For personal communication related to this package, please contact [Yaqing Wang](https://yaqingwang.github.io/) (wang5075@purdue.edu), [Subhabrata (Subho) Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/) (submukhe@microsoft.com) or [Xiaodong Liu](https://sites.google.com/view/buptxiaodong/home) (xiaodl@microsoft.com).
+For personal communication related to this package, please contact [Yaqing Wang](https://yaqingwang.github.io/) (wang5075@purdue.edu), [Sahaj Agarwal](https://www.linkedin.com/in/sahaj-agarwal-89aa49174/) (sahagar@microsoft.com), [Subhabrata (Subho) Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/) (submukhe@microsoft.com) or [Xiaodong Liu](https://sites.google.com/view/buptxiaodong/home) (xiaodl@microsoft.com).
 
 
 
@@ -175,7 +175,7 @@ For personal communication related to this package, please contact [Yaqing Wang]
 ```
 @article{wang2022adamix,
   title={AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models},
-  author={Wang, Yaqing and Mukherjee, Subhabrata and Liu, Xiaodong and Gao, Jing and Awadallah, Ahmed Hassan and Gao, Jianfeng},
+  author={Wang, Yaqing and Agarwal, Sahaj and Mukherjee, Subhabrata and Liu, Xiaodong and Gao, Jing and Awadallah, Ahmed Hassan and Gao, Jianfeng},
   journal={arXiv preprint arXiv:2205.12410},
   year={2022}
 }
