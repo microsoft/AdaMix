@@ -1,7 +1,7 @@
 # AdaMix (Mixture-of-Adapter)
 
 
-This is the implementation of the paper [AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models](https://arxiv.org/abs/2205.12410). 
+This is the implementation of the paper [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](https://arxiv.org/abs/2205.12410). 
 
 
 ## Quick links
@@ -174,7 +174,7 @@ For personal communication related to this package, please contact [Yaqing Wang]
 
 ```
 @article{wang2022adamix,
-  title={AdaMix: Mixture-of-Adapter for Parameter-efficient Tuning of Large Language Models},
+  title={AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning},
   author={Wang, Yaqing and Agarwal, Sahaj and Mukherjee, Subhabrata and Liu, Xiaodong and Gao, Jing and Awadallah, Ahmed Hassan and Gao, Jianfeng},
   journal={arXiv preprint arXiv:2205.12410},
   year={2022}
