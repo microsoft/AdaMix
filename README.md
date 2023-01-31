@@ -1,4 +1,4 @@
-# AdaMix (Mixture-of-Adapter)
+# AdaMix (Mixture-of-Adaptations)
 
 
 This is the implementation of the paper [AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning](https://arxiv.org/abs/2205.12410). 
