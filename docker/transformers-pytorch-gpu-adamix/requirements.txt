@@ -26,7 +26,7 @@ regex==2021.7.6
 requests==2.26.0
 sacremoses==0.0.45
 scikit-learn==0.24.2
-scipy==1.7.0
+scipy==1.10.0
 sentencepiece==0.1.96
 sklearn==0.0
 tensorboardx==1.8
