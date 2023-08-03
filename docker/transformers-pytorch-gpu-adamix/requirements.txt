@@ -9,7 +9,7 @@ fsspec==2021.7.0
 huggingface-hub==0.0.13
 idna==3.2
 importlib-metadata==4.6.1
-joblib==1.0.1
+joblib==1.2.0
 multiprocess==0.70.12.2
 ninja==1.10.0.post2
 packaging==21.0
